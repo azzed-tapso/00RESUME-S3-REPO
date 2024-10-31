@@ -1,73 +1,73 @@
 <div id="header"></div>
 <div class="left"></div>
 <div class="stuff">
-  <br><br>
-  <h1>Resume</h1>
-  <h2>ABDEL AZIZ TAPSOBA</h2>
-      <p class="head">1513 Citadel Court, Clarksville, TN 37980</p>
- <p class="head">Phone: 405-410-2690</p>
- Email: tapsobaabdelaziz@gmail.com</h2>
-   <hr />
-   <br>
-    <h2> Professional Summary</h2>
-    <p class="head">Dedicated and skilled AWS Cloud Practitioner with 2 years of experience in deploying, managing, and securing cloud infrastructures using Amazon Web Services. Proficient in managing EC2 instances, configuring S3 storage, implementing IAM policies, and automating processes with AWS Lambda and CloudFormation. Strong problem-solver with a collaborative mindset and a commitment to optimizing cloud operations for efficiency and cost-effectiveness.       </p>
-   <ul>
-    
-  <h2>Technical Skills</h2>
-     <li>AWS Services: EC2, S3, VPC, IAM, Lambda, CloudFormation, RDS, CloudWatch, CloudTrail   </li>
-     <li>Infrastructure as Code: CloudFormation, Terraform (optional if applicable) </li>
-     <li>Automation & Scripting: Python, Bash, AWS CLI </li>
-     <li>Monitoring & Logging: CloudWatch, CloudTrail </li>
-     <li>Networking: VPC, Subnetting, Route 53, Security Groups, NACLs
- DevOps Tools: Jenkins, Git, Docker (if applicable)
- Database: RDS (MySQL, PostgreSQL, etc. </li>
-   </ul>
-  
-   <h2>Professional Experience </h2>
-   <p class="head">Cloud Specialist / AWS Engineer </p>
- <p class="head">[Amazon AWS] </p>
- [Clarksville, TN] • [NOV 2024 - Present]</h2>
- 
- <li>Managed and optimized AWS infrastructure, leading to a 20% reduction in operational costs by implementing cost-efficient strategies with CloudWatch and automated shutdowns.  </li>
-  <li>Designed and deployed scalable and secure VPC architectures using subnets, route tables, and network access control lists (NACLs) to enhance data security and accessibility.  </li>
-  <li>Implemented CI/CD pipelines with Jenkins and AWS CodePipeline to automate application deployment, reducing release time by 30%.  </li>
-  <li>Used CloudFormation to provision and manage infrastructure as code, reducing setup time and improving configuration consistency.  </li>
-  <li>Configured IAM roles, policies, and permissions for secure, least-privilege access to AWS resources, reducing security incidents.  </li>
-  <li>Monitored and maintained high availability of applications using CloudWatch alarms, custom metrics, and CloudTrail logs.
-   </li>
- 
- 
- 
-    <h2>Education</h2>
-   <p class="head">Bachelor’s Degree in [Business Administration] </p>
-   <ul>
-     <li>[Southern Nazarenne University], [Okc, OK] • [Dec 2015] </li>
-   </ul>
-    
-     <h2>Certifications</h2>
-   <ul>
-     <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
-       <li>AWS Certified Solutions Architect – Associate </li>
-     </a>
-     <!--Link-->
-     <a href="https://www.silvermineart.org/">
-       <li>AWS Certified Cloud Practitioner</li>
-     </a>
+   <br><br>
+   <h1>Resume</h1>
+   <h2>ABDEL AZIZ TAPSOBA</h2>
+       <p class="head">1513 Citadel Court, Clarksville, TN 37923</p>
+  <p class="head">Phone: 405-410-2690</p>
+  Email: tapsobaabdelaziz@gmail.com</h2>
+    <hr />
+    <br>
+     <h2> Professional Summary</h2>
+     <p class="head">Dedicated and skilled AWS Cloud Practitioner with 2 years of experience in deploying, managing, and securing cloud infrastructures using Amazon Web Services. Proficient in managing EC2 instances, configuring S3 storage, implementing IAM policies, and automating processes with AWS Lambda and CloudFormation. Strong problem-solver with a collaborative mindset and a commitment to optimizing cloud operations for efficiency and cost-effectiveness.       </p>
+    <ul>
      
-   </ul>
- 
-      <h2>Projects</h2>
-     <li>Automated Backup Solution on AWS
- Developed an automated backup solution for critical application data using Lambda and S3, resulting in improved data redundancy and reducing data loss risk. </li>
-     <li> Serverless Image Processing Pipeline
- Built a serverless image processing pipeline with S3 and Lambda, automating image resizing and storage, optimizing application performance and storage costs.
- 
- This template emphasizes your AWS experience and projects, focusing on your practical experience and skills in a concise format. Let me know if you’d like to include specific AWS achievements or technologies!</li>
+   <h2>Technical Skills</h2>
+      <li>AWS Services: EC2, S3, VPC, IAM, Lambda, CloudFormation, RDS, CloudWatch, CloudTrail   </li>
+      <li>Infrastructure as Code: CloudFormation, Terraform (optional if applicable) </li>
+      <li>Automation & Scripting: Python, Bash, AWS CLI </li>
+      <li>Monitoring & Logging: CloudWatch, CloudTrail </li>
+      <li>Networking: VPC, Subnetting, Route 53, Security Groups, NACLs
+  DevOps Tools: Jenkins, Git, Docker (if applicable)
+  Database: RDS (MySQL, PostgreSQL, etc. </li>
+    </ul>
    
- 
-    <li>Book Club</li>
-   </ul>
- </div>
- <div class="right"></div>
- <div id="footer">
-   <h2 id="name">Emily</h2></div>  
+    <h2>Professional Experience </h2>
+    <p class="head">Cloud Specialist / AWS Engineer </p>
+  <p class="head">[Amazon AWS] </p>
+  [Clarksville, TN] • [NOV 2024 - Present]</h2>
+  
+  <li>Managed and optimized AWS infrastructure, leading to a 20% reduction in operational costs by implementing cost-efficient strategies with CloudWatch and automated shutdowns.  </li>
+   <li>Designed and deployed scalable and secure VPC architectures using subnets, route tables, and network access control lists (NACLs) to enhance data security and accessibility.  </li>
+   <li>Implemented CI/CD pipelines with Jenkins and AWS CodePipeline to automate application deployment, reducing release time by 30%.  </li>
+   <li>Used CloudFormation to provision and manage infrastructure as code, reducing setup time and improving configuration consistency.  </li>
+   <li>Configured IAM roles, policies, and permissions for secure, least-privilege access to AWS resources, reducing security incidents.  </li>
+   <li>Monitored and maintained high availability of applications using CloudWatch alarms, custom metrics, and CloudTrail logs.
+    </li>
+  
+  
+  
+     <h2>Education</h2>
+    <p class="head">Bachelor’s Degree in [Business Administration] </p>
+    <ul>
+      <li>[Southern Nazarenne University], [Okc, OK] • [Dec 2015] </li>
+    </ul>
+     
+      <h2>Certifications</h2>
+    <ul>
+      <a href="http://www.wiltonhighschool.org/pages/Wilton_High_School">
+        <li>AWS Certified Solutions Architect – Associate </li>
+      </a>
+      <!--Link-->
+      <a href="https://www.silvermineart.org/">
+        <li>AWS Certified Cloud Practitioner</li>
+      </a>
+      
+    </ul>
+  
+       <h2>Projects</h2>
+      <li>Automated Backup Solution on AWS
+  Developed an automated backup solution for critical application data using Lambda and S3, resulting in improved data redundancy and reducing data loss risk. </li>
+      <li> Serverless Image Processing Pipeline
+  Built a serverless image processing pipeline with S3 and Lambda, automating image resizing and storage, optimizing application performance and storage costs.
+  
+  This template emphasizes your AWS experience and projects, focusing on your practical experience and skills in a concise format. Let me know if you’d like to include specific AWS achievements or technologies!</li>
+    
+  
+     <li>Book Club</li>
+    </ul>
+  </div>
+  <div class="right"></div>
+  <div id="footer">
+    <h2 id="name">Emily</h2></div>  
